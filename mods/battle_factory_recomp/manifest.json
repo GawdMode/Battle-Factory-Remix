@@ -1,0 +1,26 @@
+{
+  "id": "battle_factory_recomp",
+  "name": "Battle Factory Remix",
+  "version": "1.0.0",
+  "api": 2,
+  "entry": "main.lua",
+  "games": [
+    "red",
+    "crystal"
+  ],
+  "profile": "overhaul",
+  "game_version": ">=0.2.24 <1.0.0",
+  "category": "GAMEPLAY",
+  "priority": 210,
+  "dependencies": [],
+  "optional_dependencies": [
+    "pokemon_survival"
+  ],
+  "conflicts": [],
+  "incompatible": [],
+  "description": "Battle Factory Remix for Pokemon Red and Crystal, with game-specific rental challenges, swaps, Factory Heads, BP rewards, and optional PokeSurvive compatibility.",
+  "permissions": [
+    "engine_internals"
+  ],
+  "github": "GawdMode/Battle-Factory-Remix"
+}
