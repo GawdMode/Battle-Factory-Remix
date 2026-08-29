@@ -37,29 +37,6 @@ Battle Factory Remix uses separate, game-specific implementations behind a singl
 
 The internal mod ID remains `battle_factory_recomp` to preserve compatibility with existing Red Factory save data.
 
-## Installation
-
-Download the latest ZIP from **Releases**, extract it, and place `battle_factory_recomp` in your Pokémon Recomp `mods` directory. Enable **Battle Factory Remix** in the launcher for Red or Crystal.
-
-## Source layout
-
-```text
-mods/
-└── battle_factory_recomp/
-    ├── main.lua
-    ├── manifest.json
-    ├── README.md
-    └── variants/
-        ├── red/main.lua
-        └── crystal/main.lua
-```
-
-`main.lua` dispatches to the appropriate implementation at runtime so generation-specific code remains isolated.
-
-## Release
-
-Current release: **v1.0.0**
-
 See [CHANGELOG.md](CHANGELOG.md) for release history.
 
 Battle Factory Remix does not include ROMs or copyrighted game data.
