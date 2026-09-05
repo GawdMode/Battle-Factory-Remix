@@ -35,8 +35,6 @@ Battle Factory Remix uses separate, game-specific implementations behind a singl
 - Pokémon Recomp `>=0.2.24 <1.0.0`
 - Optional PokeSurvive integration; use **PokeSurvive v1.1.1+**
 
-The internal mod ID remains `battle_factory_recomp` to preserve compatibility with existing Red Factory save data.
+## More Mods
 
-See [CHANGELOG.md](CHANGELOG.md) for release history.
-
-Battle Factory Remix does not include ROMs or copyrighted game data.
+Check out my other [Pokémon mods and projects](https://github.com/GawdMode) on GitHub!
