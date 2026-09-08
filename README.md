@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://gawdmode.github.io/">
+    <img src="checkoutmyothermods.png" alt="Check out all of my other Gen1Recomp mods">
+  </a>
+</p>
+
 # Battle Factory Remix
 
 A unified **Pokémon Recomp** Battle Factory mod for **Pokémon Red** and **Pokémon Crystal**.
