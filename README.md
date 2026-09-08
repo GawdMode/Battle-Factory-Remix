@@ -40,7 +40,3 @@ Battle Factory Remix uses separate, game-specific implementations behind a singl
 - Pokémon Crystal
 - Pokémon Recomp `>=0.2.24 <1.0.0`
 - Optional PokeSurvive integration; use **PokeSurvive v1.1.1+**
-
-## More Mods
-
-Check out my other [Pokémon mods and projects](https://github.com/GawdMode) on GitHub!
