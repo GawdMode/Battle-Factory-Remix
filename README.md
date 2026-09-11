@@ -22,4 +22,4 @@ Choose 3 Pokémon from a randomized pool of 6, battle through increasingly diffi
 - Full PokeSurvive compatibility. When PokeSurvive is installed, Factory rentals and opponents receive their own independently randomized typings, stats, palettes, and movesets separate from your PokeSurvive run
 - Your real party is safely restored when a Factory run ends
 
-Battle Factory Remix supports Pokémon Crystal through Gen1Recomp. It contains the expanded Class, BP, Factory Head, Custom Machine, and Signature Gear systems.
+Battle Factory Remix supports Pokémon Red (Found within Saffron City), and Pokémon Crystal through Gen1Recomp. Crystal contains the expanded Class, BP, Factory Head, Custom Machine, and Signature Gear systems.
