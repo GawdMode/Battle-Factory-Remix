@@ -6,37 +6,20 @@
 
 # Battle Factory Remix
 
-A unified **Pokémon Recomp** Battle Factory mod for **Pokémon Red** and **Pokémon Crystal**.
+Battle Factory Remix expands Pokémon Crystal's Battle Tower into a full rental-battle challenge inspired by the Battle Factory.
 
-Battle Factory Remix uses separate, game-specific implementations behind a single mod package. Red keeps its established standalone Saffron City Factory, while Crystal uses the newer nine-class Battle Factory Remix built around the Battle Tower.
+Choose 3 Pokémon from a randomized pool of 6, battle through increasingly difficult classes, and swap one of your rentals for a defeated opponent's Pokémon between victories. Complete 7 battles per class and work your way through all 9 Factory Classes.
 
-## Highlights
+*Features*
+- 9 Factory Classes with increasingly powerful Pokémon, movesets, and strategies
+- Draft 3 rentals from 6 choices, with the option to refresh the rental pool
+- Swap rentals with defeated opponents between battles
+- Factory Heads await at the end of later classes, including Brock, Koga, Blaine, Giovanni, Lorelei, Lance, and Professor Oak
+- Earn Battle Points (BP) from victories and spend them on held items, evolution items, vitamins, TMs, Pokémon, and exclusive Factory rewards
+- 17 Custom Machines, introducing one new move for every Pokémon type
+- 6 pieces of Signature Gear that provide unique effects to specific Pokémon and evolutionary families
+- Daily rotating selections of Custom Machines and Signature Gear
+- Full PokeSurvive compatibility. When PokeSurvive is installed, Factory rentals and opponents receive their own independently randomized typings, stats, palettes, and movesets separate from your PokeSurvive run
+- Your real party is safely restored when a Factory run ends
 
-### Pokémon Red
-
-- Standalone Saffron City Battle Factory
-- Nine rental classes
-- Six-Pokémon draft / choose three
-- Seven-battle class runs and post-win swaps
-- Factory Heads for Classes 3–9
-- Persistent BP progression
-- BP Exchange with rare TMs and rotating Pokémon stock
-
-### Pokémon Crystal
-
-- Nine escalating Factory classes
-- Class-balanced rental pools
-- Run-randomized single/dual typings
-- Matching type-based sprite palettes
-- Type-aware smart randomized movesets
-- Post-win rental swaps
-- Factory Heads for Classes 3–9
-- Persistent BP Shop progression and daily Pokémon offers
-- Normal Battle Tower room-level opponent fix
-
-## Compatibility
-
-- Pokémon Red
-- Pokémon Crystal
-- Pokémon Recomp `>=0.2.24 <1.0.0`
-- Optional PokeSurvive integration; use **PokeSurvive v1.1.1+**
+Battle Factory Remix supports Pokémon Crystal through Gen1Recomp. It contains the expanded Class, BP, Factory Head, Custom Machine, and Signature Gear systems.
